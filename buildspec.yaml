@@ -5,4 +5,4 @@ phases:
   pre_build:
     commands:
       - echo Logging in to Amazon ECR...
-      - echo hello 03:19PM
+      - echo "hello 03:31PM"
