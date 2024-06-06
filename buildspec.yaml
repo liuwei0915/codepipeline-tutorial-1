@@ -6,5 +6,6 @@ phases:
     commands:
       - echo Logging in to Amazon ECR...
       - echo hello
-      - echo "11:48 AM from the branch main"
+      - echo "11:56 AM from the branch test/wei"
+
 
