@@ -6,7 +6,7 @@ phases:
     commands:
       - echo Logging in to Amazon ECR...
       - echo hello
-      - echo "12-36 PM 06-07 from the branch new-1"
+      - echo "12-52 PM 06-07 from the branch new-1"
 
 
 
