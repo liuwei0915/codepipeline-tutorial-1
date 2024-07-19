@@ -8,4 +8,4 @@ phases:
       - echo hello
       - echo "12-21 PM 06-07 from the branch test/wei"
       - echo $CODEBUILD_SOURCE_VERSION
-
+      - echo $CODEBUILD_WEBHOOK_TRIGGER
