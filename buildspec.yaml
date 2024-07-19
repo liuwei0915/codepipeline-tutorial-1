@@ -7,5 +7,5 @@ phases:
       - echo Logging in to Amazon ECR...
       - echo hello
       - echo "12-21 PM 06-07 from the branch test/wei"
-
+      - echo $CODEBUILD_SOURCE_VERSION
 
