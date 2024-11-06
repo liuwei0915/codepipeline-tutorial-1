@@ -10,4 +10,4 @@ phases:
       - echo $CODEBUILD_SOURCE_VERSION
       - echo wei-09-19
       - sleep 60
-      - echo commit-9
+      - echo commit-10
