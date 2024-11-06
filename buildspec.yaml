@@ -9,4 +9,4 @@ phases:
       - echo "12-21 PM 06-07 from the branch test/wei"
       - echo $CODEBUILD_SOURCE_VERSION
       - echo wei-09-19
-      - echo commit-4
+      - echo commit-5
