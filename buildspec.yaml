@@ -10,4 +10,4 @@ phases:
       - echo $CODEBUILD_SOURCE_VERSION
       - echo wei-09-19
 
-      - echo commit-20-3
+      - echo commit-20-4
