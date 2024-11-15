@@ -11,3 +11,4 @@ phases:
       - echo wei-09-19
       - cat test/wei.txt
       - echo commit-20-4
+      - echo wei nov15
