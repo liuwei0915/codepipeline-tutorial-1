@@ -13,3 +13,6 @@ phases:
       - echo commit-20-4
       - echo wei nov15
       - echo nov-1
+      - git log
+      - git config --list
+      - git remote -v
